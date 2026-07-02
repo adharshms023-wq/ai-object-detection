@@ -177,7 +177,7 @@ This project is licensed under the MIT License.
 
 ## 👨‍💻 Author
 
-**Adharsh M**
+**Adharsh M S**
 
 GitHub:
 https://github.com/adharshms023-wq
